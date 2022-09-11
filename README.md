@@ -1,14 +1,17 @@
 
-<img align="right" width="250px" src="">
 <h1 align="left"> <i>Hi There! I'm Aman 👋 </i></h1>
+<img style="border:1px solid blue; border-radius:50%" align="right" width="300px"  src="https://irfantariq.com/images/banner.gif">
 
 *   🔭 I’m currently working on Java-Backend Projects...
-
 *   🌱 I’m currently learning Java-bakend...
 *   💬 Ask me about Tech...
 *   📫 How to reach me: savverma98@gmail.com
 *   ⚡ Fun fact: I am a developer...
-    
+<div align="left">
+<h3>Connect with me 🙋🏻</h3>
+<a href="https://www.linkedin.com/in/aman-kumar-201b3016b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</div>
 <hr/>
 <div align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=sav98aman&style=for-the-badge"/> -->
