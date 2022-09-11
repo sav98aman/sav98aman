@@ -28,15 +28,15 @@
 </div>
 
 <div align="center">
-  <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sav98aman&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
-  <hr width="50%"/>
-  
-  <h3>My Skills</h3>
+<h3>My Skills</h3>
   <img aling="left" src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,idea,aws"alt="My Skills"/>
   <img aling="left" src="https://skillicons.dev/icons?i=html,css,js,visualstudio,netlify,webpack"alt="My Skills"/>
   <img aling="left" src="https://skillicons.dev/icons?i=matlab,md,github"alt="My Skills"/>
   
+  <h3>My GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=sav98aman&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
+  <hr width="50%"/>
+
   <hr width="50%"/>
    <h3>Some More Data... 😁</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sav98aman&theme=dark" alt="GitHub stats"/>
