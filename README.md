@@ -5,12 +5,19 @@
 *   🔭 I’m currently working on Java-Backend Projects...
 *   🌱 I’m currently learning Java-bakend...
 *   💬 Ask me about Tech...
-*   📫 How to reach me: savverma98@gmail.com
 *   ⚡ Fun fact: I am a developer...
+<hr>
+📧 Email: savverma98@gmail.com<br>
+💼 Portfolio: 💼 Portfolio - [Aman-sheikh.netlify.app](https://amanprofile.netlify.app/)
+
+
+## 🌐 Socials
+<hr>
 <div align="left">
 <h3>Connect with me 🙋🏻</h3>
 <a href="https://www.linkedin.com/in/aman-kumar-201b3016b" target="_blank" >
-  <img src="https://skillicons.dev/icons?i=linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin"></a>
+
 </div>
 <hr/>
 <div align="center">
