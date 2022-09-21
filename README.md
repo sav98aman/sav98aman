@@ -14,8 +14,8 @@
 
 
 <div align="left">
-## 🌐 Socials
-<h3>Connect with me 🙋🏻</h3>
+
+<h3>Socials Connect with me 🙋🏻</h3>
 <a href="https://www.linkedin.com/in/aman-kumar-201b3016b" target="_blank" >
   <img src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
