@@ -1,5 +1,13 @@
 
 <h1 align="left"> <i>Hi There! I'm Aman 👋 </i></h1>
+<hr>
+
+***I'm an Aspiring Java Developer who focuses on writing clean and efficient code. I have a problem-solving attitude and always up for new challenges.***
+
+***I am looking for an opportunity where I can implement the best of my knowledge and effectively contribute to my skills.***
+
+<hr>
+
 <img style="border:1px solid blue; border-radius:50%" align="right" width="300px"  src="https://irfantariq.com/images/banner.gif">
 
 *   🔭 I’m currently working on Java-Backend Projects...
