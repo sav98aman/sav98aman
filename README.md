@@ -1,11 +1,10 @@
 
 <h1 align="left"> <i>Hi There! I'm Aman 👋 </i></h1>
-<hr>
 
 ***I'm an Aspiring Java Developer who focuses on writing clean and efficient code. I have a problem-solving attitude and always up for new challenges.***
 
 ***I am looking for an opportunity where I can implement the best of my knowledge and effectively contribute to my skills.***
-
+<div align="left"></div>
 <hr>
 
 <img style="border:1px solid blue; border-radius:50%" align="right" width="300px"  src="https://irfantariq.com/images/banner.gif">
@@ -40,17 +39,15 @@
 
 [![wakatime](https://wakatime.com/badge/user/2f9ffa8b-e9ed-496b-8b32-27e31824a5b0.svg)](https://wakatime.com/@2f9ffa8b-e9ed-496b-8b32-27e31824a5b0)
 </div>
-
+<hr>
 <div align="center">
 <h3>💻Tech Stack</h3>
   <img aling="left" src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,idea,aws"alt="My Skills"/>
   <img aling="left" src="https://skillicons.dev/icons?i=html,css,js,visualstudio,netlify,webpack"alt="My Skills"/>
   <img aling="left" src="https://skillicons.dev/icons?i=matlab,md,github"alt="My Skills"/>
-  
+  <hr>
   <h3>My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=sav98aman&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
-  <hr width="50%"/>
-
   <hr width="50%"/>
    <h3>Some More Data... 😁</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sav98aman&theme=dark" alt="GitHub stats"/>
