@@ -5,6 +5,7 @@
 *   🔭 I’m currently working on Java-Backend Projects...
 *   🌱 I’m currently learning Java-bakend...
 *   💬 Ask me about Tech...
+      * Java | Backend | maven | Jpa |Hibernate | Mysql |
 *   ⚡ Fun fact: I am a developer...
 *   📧 Email: savverma98@gmail.com<br>
 
@@ -48,8 +49,7 @@
   <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sav98aman&layout=compact&langs_count=8&theme=react" />
 </div>
 
-[![sav98aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sav98aman&custom_title=Amans%20github%20a%activity graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![sav98aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sav98aman&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
 <h3>Connect with me 🙋🏻</h3>
 <a href="https://www.linkedin.com/in/aman-kumar-201b3016b" target="_blank">
