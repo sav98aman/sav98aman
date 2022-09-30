@@ -5,12 +5,11 @@
 *   🔭 I’m currently working on Java-Backend Projects...
 *   🌱 I’m currently learning Java-bakend...
 *   💬 Ask me about Tech...
-      * Java | Backend | maven | Jpa |Hibernate | Mysql |
+      * Java | Backend | maven | Jpa |Hibernate | Mysql | DSA
 *   ⚡ Fun fact: I am a developer...
 *   📧 Email: savverma98@gmail.com<br>
 
 * 💼 Portfolio: [Aman-kumar.netlify.app](https://amanprofile.netlify.app/)
-
 
 <hr>
 <div align="left">
@@ -18,12 +17,6 @@
 <a href="https://www.linkedin.com/in/aman-kumar-201b3016b" target="_blank" >
   <img src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
-
-<hr>
-
-## 💻Tech Stack 
-
-
 <hr/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sav98aman&style=for-the-badge"/>
@@ -35,9 +28,10 @@
 <img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sav98aman"/>
 </div>
 
-<!-- <div align="center">
-<a href="https://wakatime.com/@2fc99edb-7b44-4c2d-9d7b-35326eca8ec0"><img src="https://wakatime.com/badge/user/2fc99edb-7b44-4c2d-9d7b-35326eca8ec0.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
-</div> -->
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/2f9ffa8b-e9ed-496b-8b32-27e31824a5b0.svg)](https://wakatime.com/@2f9ffa8b-e9ed-496b-8b32-27e31824a5b0)
+</div>
 
 <div align="center">
 <h3>💻Tech Stack</h3>
