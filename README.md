@@ -17,6 +17,7 @@
 *   📧 Email: savverma98@gmail.com<br>
 
 * 💼 Portfolio: [Aman-kumar.netlify.app](https://amanprotfolio.netlify.app)
+*    Resume Download [Aman-Resume](https://drive.google.com/drive/u/1/folders/10KrSVjzAKxr-nPzgHYX6LORRC1QoYfdq)
 
 <hr>
 <div align="left">
