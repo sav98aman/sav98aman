@@ -16,9 +16,7 @@
 *   ⚡ Fun fact: I am a developer...
 *   📧 Email: savverma98@gmail.com<br>
 
-* 💼 Portfolio: [Aman-kumar.netlify.app](https://amanprofile.netlify.app/)
-
-new https://amanprotfolio.netlify.app/
+* 💼 Portfolio: [Aman-kumar.netlify.app](https://amanprotfolio.netlify.app)
 
 <hr>
 <div align="left">
