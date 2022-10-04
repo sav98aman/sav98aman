@@ -59,8 +59,6 @@
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sav98aman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
 <h3>Connect with me 🙋🏻</h3>
 <a href="https://www.linkedin.com/in/aman-kumar-201b3016b" target="_blank">
