@@ -55,7 +55,7 @@
   <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sav98aman&layout=compact&langs_count=8&theme=react" />
 </div>
 
-[![sav98aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=sav98aman&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <hr>
 
